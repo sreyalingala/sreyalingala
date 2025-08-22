@@ -1,8 +1,17 @@
 # 👋 Hi there, I'm Sreya Sri Lingala
 
-## 📊 **Data Analyst | Data Storyteller | Problem Solver**
+## 📊 **Data Analyst | Machine Learning Engineer | Full-Stack Developer**
 
-I transform raw data into actionable insights that drive business decisions. With a passion for uncovering hidden patterns and telling compelling data stories, I help organizations make data-driven choices through comprehensive analysis, visualization, and strategic recommendations.
+I'm a **Master's student in Computer Science** at Virginia Tech (GPA: 3.75/4.0) with a passion for transforming complex data into actionable insights. With expertise in **Python, SQL, Machine Learning, and Cloud Computing**, I specialize in building intelligent systems that drive business decisions and innovation.
+
+### 🎓 **Education & Certifications**
+- **M.S. Computer Science & Applications** | Virginia Tech (GPA: 3.75/4.0) | 2024-2026
+- **B.Tech Computer Science** | ABV-IIITM (GPA: 3.95/4.0) | 2020-2024
+- **AWS Certified Solutions Architect** – Associate (SAA-C03)
+- **Certified Tableau Desktop Specialist**
+
+### 💼 **Current Role**
+**Web Application Developer** at Virginia Tech Innovation Campus, where I'm building an ethics research platform using React.js, Next.js, and AWS services, supporting 30+ unique users and managing cloud infrastructure for 100+ users.
 
 ---
 
@@ -13,22 +22,23 @@ I transform raw data into actionable insights that drive business decisions. Wit
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
 ## 🎯 **What I Do**
 
-- 🔍 **Data Exploration & Cleaning** - Transform messy data into clean, structured datasets
-- 📊 **Data Visualization** - Create compelling charts and graphs that tell stories
-- 📈 **Dashboard Development** - Build interactive dashboards for stakeholders
-- 📝 **Data Storytelling** - Communicate insights through clear narratives
-- 🤖 **Machine Learning Basics** - Apply ML algorithms for predictive analytics
-- 📋 **Statistical Analysis** - Perform hypothesis testing and statistical modeling
-- 🔄 **ETL Processes** - Extract, transform, and load data efficiently
+- 🔍 **Data Analysis & EDA** - Transform 50K+ records into actionable insights using Python, SQL, and Pandas
+- 📊 **Data Visualization & Storytelling** - Create compelling KPI dashboards in Tableau and Power BI
+- 🤖 **Machine Learning & AI** - Build predictive models achieving 96.5% accuracy in complex domains
+- ☁️ **Cloud Architecture** - Design and implement AWS solutions (S3, Lambda, SageMaker, IAM)
+- 🚀 **Full-Stack Development** - Build web applications with React.js, Next.js, and modern cloud technologies
+- 📈 **Business Intelligence** - Leverage Azure Data Factory for automated data integration and reporting
+- 🔬 **Research & Innovation** - Contribute to cutting-edge ML research with publications in Applied Soft Computing
 
 ---
 
@@ -37,14 +47,14 @@ I transform raw data into actionable insights that drive business decisions. Wit
 ### [🤖 Robot Task Analyzer](https://github.com/sreyalingala/robot-task-analyzer)
 *AI-powered robot movement planning system that analyzes images and generates robot task plans using computer vision and robotics algorithms.*
 
+### [🏠 Airbnb Data Analytics & Predictive Modeling](https://github.com/sreyalingala/airbnb-analytics)
+*Comprehensive analysis of 25K+ Airbnb records using Python, Scikit-Learn, and Azure Data Factory. Built 5 KPI dashboards and achieved 15% improvement in decision-making through predictive modeling.*
+
+### [🧘 Human Activity Recognition (HAR)](https://github.com/sreyalingala/har-pose-estimation)
+*Deep learning models (CNN, LSTM, Bi-LSTM) for human activity recognition using OpenPose, achieving 96.5% accuracy. Implemented in TensorFlow and PyTorch with comprehensive visual analytics.*
+
 ### [📊 E-commerce Analytics Dashboard](https://github.com/sreyalingala/ecommerce-analytics)
-*Comprehensive dashboard analyzing customer behavior, sales trends, and inventory optimization using Python, SQL, and Tableau.*
-
-### [📈 Customer Churn Prediction](https://github.com/sreyalingala/churn-prediction)
-*Machine learning model to predict customer churn using logistic regression and random forest algorithms.*
-
-### [🏥 Healthcare Data Analysis](https://github.com/sreyalingala/healthcare-analytics)
-*Analysis of patient outcomes and hospital efficiency metrics with interactive visualizations.*
+*Built 8+ KPI dashboards in Tableau and Power BI, analyzing 50K+ records for business trend analysis and predictive analytics, improving model reliability by 15%.*
 
 ---
 
@@ -58,35 +68,39 @@ I transform raw data into actionable insights that drive business decisions. Wit
 
 ---
 
-## 📫 **Let's Connect!**
+## �� **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sreyalingala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lingala-sreya-sri/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sreyalingala.dev)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sreyalingala)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreya.lingala@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsreyasri@vt.edu)
+[![Research](https://img.shields.io/badge/Research-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sreyalingala)
 
 ---
 
-## 🎨 **Fun Facts**
+## 🎨 **Fun Facts & Achievements**
 
-- 🎯 **Data Detective**: I love solving data mysteries and finding the "why" behind the numbers
-- ☕ **Coffee Connoisseur**: My best insights come after my 3rd cup of coffee
-- 📚 **Lifelong Learner**: Currently exploring advanced SQL optimization and deep learning
-- 🎵 **Music Lover**: I analyze data while listening to lo-fi beats for maximum focus
-- 🌟 **Goal**: To make data analysis accessible and exciting for everyone!
+- 🏆 **High Achiever**: Maintained 3.95/4.0 GPA in B.Tech and 3.75/4.0 in Master's program
+- 📚 **Research Contributor**: Published in Applied Soft Computing Journal on Stock Price Prediction using ML
+- 🚀 **Cloud Expert**: AWS Certified Solutions Architect with hands-on experience in enterprise solutions
+- 📊 **Data Storyteller**: Built 13+ KPI dashboards and improved business decision-making by 15-25%
+- 🤖 **ML Innovator**: Achieved 96.5% accuracy in complex Human Activity Recognition tasks
+- ☕ **Problem Solver**: My best insights come from combining technical expertise with business acumen
 
 ---
 
-## 📈 **Current Focus**
+## 📈 **Current Focus & Learning**
 
-- 🔬 **Advanced SQL** - Mastering complex queries and performance optimization
-- 📊 **Tableau Advanced** - Learning advanced dashboard techniques and storytelling
-- 🤖 **Machine Learning** - Expanding knowledge in predictive modeling and AI
-- 📱 **Data Apps** - Building interactive applications with Streamlit and Dash
+- 🔬 **Advanced Machine Learning** - Exploring deep learning architectures and optimization algorithms
+- ☁️ **Cloud Architecture** - Mastering AWS services and multi-cloud solutions
+- 📊 **Data Engineering** - Building scalable data pipelines and ETL processes
+- 🚀 **Full-Stack Development** - Enhancing React.js and Next.js expertise
+- 📚 **Research & Innovation** - Contributing to cutting-edge ML research and publications
 
 ---
 
 *"Data is the new oil, but insights are the new gold. Let's dig deep and find the treasure!"* ✨
+
+*Last updated: January 2025*
 
 ---
 
