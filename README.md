@@ -58,52 +58,12 @@ I'm a **Master's student in Computer Science** at Virginia Tech (GPA: 3.75/4.0) 
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Activity**
 
-![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreyalingala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
+*Building my GitHub presence with active contributions and projects! 🚀*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyalingala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sreyalingala&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=8B949E&currStreakLabel=8B949E&sideNums=58A6FF&sideLabels=8B949E&dates=8B949E)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sreyalingala&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=58A6FF&currStreakLabel=8B949E&sideNums=58A6FF&sideLabels=8B949E&dates=8B949E&card_width=400)
 
 ---
 
-## �� **Let's Connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lingala-sreya-sri/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sreyalingala.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsreyasri@vt.edu)
-[![Research](https://img.shields.io/badge/Research-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sreyalingala)
-
----
-
-## 🎨 **Fun Facts & Achievements**
-
-- 🏆 **High Achiever**: Maintained 3.95/4.0 GPA in B.Tech and 3.75/4.0 in Master's program
-- 📚 **Research Contributor**: Published in Applied Soft Computing Journal on Stock Price Prediction using ML
-- 🚀 **Cloud Expert**: AWS Certified Solutions Architect with hands-on experience in enterprise solutions
-- 📊 **Data Storyteller**: Built 13+ KPI dashboards and improved business decision-making by 15-25%
-- 🤖 **ML Innovator**: Achieved 96.5% accuracy in complex Human Activity Recognition tasks
-- ☕ **Problem Solver**: My best insights come from combining technical expertise with business acumen
-
----
-
-## 📈 **Current Focus & Learning**
-
-- 🔬 **Advanced Machine Learning** - Exploring deep learning architectures and optimization algorithms
-- ☁️ **Cloud Architecture** - Mastering AWS services and multi-cloud solutions
-- 📊 **Data Engineering** - Building scalable data pipelines and ETL processes
-- 🚀 **Full-Stack Development** - Enhancing React.js and Next.js expertise
-- 📚 **Research & Innovation** - Contributing to cutting-edge ML research and publications
-
----
-
-*"Data is the new oil, but insights are the new gold. Let's dig deep and find the treasure!"* ✨
-
-*Last updated: January 2025*
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreyalingala&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+## 📫 **Let's Connect!**
