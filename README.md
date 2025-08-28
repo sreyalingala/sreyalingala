@@ -1,175 +1,153 @@
-# 👋 Hi there, I'm Sreya Sri Lingala
+<div align="center">
 
-## 📊 **Data Analyst | Machine Learning Engineer | Full-Stack Developer**
+<!-- Typing animation - data analyst vibe -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=6366F1&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Sreya+Sri+Lingala+%F0%9F%91%8B;Turning+raw+data+into+actionable+insights+%F0%9F%93%8A;SQL+%E2%9E%94%EF%B8%8F+Python+%E2%9E%94%EF%B8%8F+Tableau+%E2%9E%94%EF%B8%8F+Power+BI;Let's+find+the+signal+in+the+noise+%F0%9F%8E%AF" alt="Typing SVG" />
 
-I'm a **Master's student in Computer Science** at Virginia Tech with a passion for transforming complex data into actionable insights. With expertise in **Python, SQL, Machine Learning, and Cloud Computing**, I specialize in building intelligent systems that drive business decisions and innovation.
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=sreyalingala&style=flat-square&color=6366F1&label=Profile+Views)
 
-## 🎓 **Education & Certifications**
-
-### 🏫 **Virginia Tech**
-![VT Logo](https://img.shields.io/badge/Virginia_Tech-FF6600?style=for-the-badge&logo=virginia-tech&logoColor=white)
-- **M.S. Computer Science & Applications** | Alexandria, VA | Aug 2024 – May 2026
-
-### 🏫 **ABV-IIITM**
-- **B.Tech Computer Science** | Gwalior, India | Nov 2020 – May 2024
-
-### 🏆 **Certifications**
-- **AWS Certified Solutions Architect** – Associate (SAA-C03)
-- **Certified Tableau Desktop Specialist**
+</div>
 
 ---
 
-## 💼 **Professional Experience**
+## 📊 **Quick metrics** (the numbers I live by)
 
-### **🔧 Web Application Developer** | Virginia Tech Innovation Campus
-*May 2025 – Present*
-- Building an ethics research platform using **React.js, Next.js, and AWS services**
-- Supporting 30+ unique users and managing cloud infrastructure for 100+ users
-- Integrating **AWS S3, Cognito, and IAM policies** for authentication and cloud-based storage
-- Configuring **AWS IAM roles, Lambda functions**, and access policies to manage 15+ application resources
-- Optimizing data upload and visualization workflows with **Python and SQL**, reducing manual reporting by 25%
-
-### **📊 Data Analyst Intern** | Brane Enterprises Pvt Ltd
-*May 2023 – May 2024 | On-Site, India*
-- Analyzed 50K+ records using **Python, SQL, and Pandas** for KPI generation and business trend analysis
-- Built 8+ **KPI dashboards** in Tableau and Power BI, leveraging **Azure Data Factory** for automated refresh
-- Performed data profiling, **EDA**, and statistical analysis to assess data quality, detect anomalies, and support **predictive analytics and business intelligence**, improving model reliability by 15%
-- Applied **data storytelling techniques** to deliver 10+ insights, supporting the company's business decisions
+| Metric | Value |
+|--------|--------|
+| **Records analyzed** | 200K+ (warehouse) · 500K+ (ops) · 420K+ (transactions) |
+| **Dashboards built** | 14+ KPI dashboards (Tableau, Power BI) |
+| **Query latency improved** | 34% (indexing + tuning) |
+| **Reporting workload reduced** | 26–35% (automation) |
+| **Conversion lift (A/B)** | 6.8% |
+| **Retention opportunity** | 9% (SAS hypothesis testing) |
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🎓 **Education**
 
-### **💻 Programming & Libraries**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-7CCD00?style=for-the-badge&logo=nltk&logoColor=white)
-
-### **📊 Data Analysis & BI**
-![Data Profiling](https://img.shields.io/badge/Data_Profiling-FF6B6B?style=for-the-badge&logo=data&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4ECDC4?style=for-the-badge&logo=data&logoColor=white)
-![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-45B7D1?style=for-the-badge&logo=chart&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-96CEB4?style=for-the-badge&logo=business&logoColor=white)
-![Data Transformation](https://img.shields.io/badge/Data_Transformation-FFEAA7?style=for-the-badge&logo=data&logoColor=white)
-
-### **📈 Data Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0F7BA7?style=for-the-badge&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
-
-### **🤖 Machine Learning & AI**
-![Classification](https://img.shields.io/badge/Classification-FF6B6B?style=for-the-badge&logo=ml&logoColor=white)
-![Regression](https://img.shields.io/badge/Regression-4ECDC4?style=for-the-badge&logo=ml&logoColor=white)
-![Clustering](https://img.shields.io/badge/Clustering-45B7D1?style=for-the-badge&logo=ml&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-96CEB4?style=for-the-badge&logo=nlp&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FFEAA7?style=for-the-badge&logo=ml&logoColor=white)
-![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-DDA0DD?style=for-the-badge&logo=ml&logoColor=white)
-
-### **☁️ Cloud & Infrastructure**
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-sagemaker&logoColor=white)
-
-### **🚀 Development & Tools**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+| School | Degree | Location | Period | GPA |
+|--------|--------|----------|--------|-----|
+| **Virginia Polytechnic Institute and State University** | M.S. Computer Science | Alexandria, VA | Aug 2024 – May 2026 | **4.0/4.0** |
+| **ABV-Indian Institute of Information Technology and Management** | B.S. Computer Science | Gwalior, India | Nov 2020 – May 2024 | **3.85/4.0** |
 
 ---
 
-## 🎯 **What I Do**
+## 💼 **Experience**
 
-- 🔍 **Data Analysis & EDA** - Transform 50K+ records into actionable insights using Python, SQL, and Pandas
-- 📊 **Data Visualization & Storytelling** - Create compelling KPI dashboards in Tableau and Power BI
-- 🤖 **Machine Learning & AI** - Build predictive models achieving 96.5% accuracy in complex domains
-- ☁️ **Cloud Architecture** - Design and implement AWS solutions (S3, Lambda, SageMaker, IAM)
-- 🚀 **Full-Stack Development** - Build web applications with React.js, Next.js, and modern cloud technologies
-- 📈 **Business Intelligence** - Leverage Azure Data Factory for automated data integration and reporting
-- 🔬 **Research & Innovation** - Contribute to cutting-edge ML research with publications in Applied Soft Computing
+### **Graduate Classroom Assistant – Data Visualization** · Virginia Tech  
+_Aug 2024 – Present · Alexandria, VA_
 
----
+- Queried and transformed **200K+** warehouse records in **Snowflake** for 18+ operational and product KPIs
+- Designed dimensional data models with **star schema**, standardizing 12+ cross-functional reporting metrics
+- Cut complex SQL join latency by **34%** via indexing and query tuning across 10+ relational tables
+- Built governed **Tableau** dashboards with warehouse semantic layers for stakeholder KPI reporting
+- Built SQL transformation pipelines for analytics-ready datasets (Tableau + ad-hoc analysis)
+- Ran **Python** data validation and variance analysis (Pandas), catching 7% cohort metric deviations pre-release
+- Automated **ELT** with **Apache Airflow** DAG scheduling, cutting reporting workload by **26%**
+- Used **AWS** with Snowflake pipelines, Airflow orchestration, and Tableau visualization
+- Managed analytics work in **Jira** and turned requirements into BI dashboards with cross-functional teams
 
-## 🚀 **Featured Projects**
+### **Web Application Developer – Data Analytics** · Virginia Tech Innovation Campus  
+_Jan 2025 – Aug 2025 · Alexandria, VA_
 
-### [🤖 Robot Task Analyzer](https://github.com/sreyalingala/robot-task-analyzer)
-*AI-powered robot movement planning system that analyzes images and generates robot task plans using computer vision and robotics algorithms.*
-
-### [🏠 Airbnb Data Analytics & Predictive Modeling](https://github.com/sreyalingala/airbnb-analytics)
-*Comprehensive analysis of 25K+ Airbnb records using Python, Scikit-Learn, and Azure Data Factory. Built 5 KPI dashboards and achieved 15% improvement in decision-making through predictive modeling.*
-
-### [🧘 Human Activity Recognition (HAR)](https://github.com/sreyalingala/har-pose-estimation)
-*Deep learning models (CNN, LSTM, Bi-LSTM) for human activity recognition using OpenPose, achieving 96.5% accuracy. Implemented in TensorFlow and PyTorch with comprehensive visual analytics.*
-
-### [📊 E-commerce Analytics Dashboard](https://github.com/sreyalingala/ecommerce-analytics)
-*Built 8+ KPI dashboards in Tableau and Power BI, analyzing 50K+ records for business trend analysis and predictive analytics, improving model reliability by 15%.*
-
----
-
-## 📊 **GitHub Activity**
-
-*Building my GitHub presence with active contributions and projects! 🚀*
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sreyalingala&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=58A6FF&currStreakLabel=8B949E&sideNums=58A6FF&sideLabels=8B949E&dates=8B949E&card_width=400)
+- Analyzed **500K+** operational records with **SQL** and **SAS** for product usage and customer engagement
+- Built **Power BI (DAX)** dashboards for 15+ business KPIs (revenue, growth, retention)
+- Consolidated multi-source data with **SSIS** ETL into centralized datasets for reporting
+- Developed **DAX** measures for product performance, revenue contribution, and customer segmentation
+- Ran **A/B test** analysis and hypothesis testing; identified feature updates that improved conversion by **6.8%**
+- Delivered executive dashboards and reports for product roadmap and feature prioritization
+- Kept analytics queries and dashboard versions in **GitHub** for collaboration
+- Worked with product managers in **Jira** to turn business questions into data-driven answers
 
 ---
 
-## 📫 **Let's Connect!**
+## 🛠️ **Tech stack** (my toolkit)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedIn.com/in/lingala-sreya-sri/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sreyalingala-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsreyasri@vt.edu)
-[![Research](https://img.shields.io/badge/Research-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sreyalingala)
+<table>
+<tr>
+<td width="50%">
+
+**Programming & analytics**  
+`Python` · `Pandas` · `NumPy` · `SciPy` · `SQL` (CTEs, window functions, indexing) · `R` · `SAS`
+
+**Data engineering**  
+`ELT` · `dbt` · `Apache Airflow` · `Star Schema` · `Data quality validation` · `SSIS`
+
+**Warehousing**  
+`Snowflake` · `BigQuery` · `PostgreSQL` · `Redshift` · `MySQL`
+
+</td>
+<td width="50%">
+
+**Visualization & BI**  
+`Tableau` (LOD, RLS) · `Power BI` · `DAX` · `Power Query` · `SSRS` · `Looker` · `Excel` · `Google Analytics`
+
+**Business analytics**  
+`KPI development` · `Metric standardization` · `Funnel/cohort analysis` · `Revenue modeling` · `Stakeholder reporting`
+
+**Cloud & tools**  
+`AWS` (EMR, S3, Athena, RDS) · `Azure` · `Databricks` · `Microsoft Fabric` · `Git` · `Jira` · `Confluence` · `ServiceNow` · `Azure DevOps`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎨 **Fun Facts & Achievements**
+## 📈 **Featured projects**
 
-- 🏆 **High Achiever**: Consistently maintained excellent academic performance in both B.Tech and Master's programs
-- 📚 **Research Contributor**: Published in Applied Soft Computing Journal on Stock Price Prediction using ML
-- 🚀 **Cloud Expert**: AWS Certified Solutions Architect with hands-on experience in enterprise solutions
-- 📊 **Data Storyteller**: Built 13+ KPI dashboards and improved business decision-making by 15-25%
-- 🤖 **ML Innovator**: Achieved 96.5% accuracy in complex Human Activity Recognition tasks
-- ☕ **Problem Solver**: My best insights come from combining technical expertise with business acumen
-- 🎵 **Music Lover**: I analyze data while listening to lo-fi beats for maximum focus
-- 🌟 **Goal**: To make data analysis accessible and exciting for everyone!
+| Project | Stack | Highlights |
+|--------|--------|------------|
+| **Customer Retention & Product Performance Analytics** | SAS, Tableau, SQL, Excel (Power Query), Git | 420K+ transactions; churn drivers & product adoption across 5 segments; 14+ KPIs (cohort retention, funnel conversion, CLV); SAS hypothesis testing → 9% retention opportunity; automated SQL + Tableau refresh → **32%** less manual reporting |
+| **Enterprise Sales Analytics & Reporting Pipeline** | Microsoft Fabric, T-SQL, SQL Server, SSIS, SSRS, Power BI (DAX), Git | 250K+ transactions via SSIS ETL; star-schema warehouse; 15+ sales KPIs; advanced DAX (revenue, margin, cohort); automated SSRS → **35%** less manual reporting |
 
 ---
 
-## 📈 **Current Focus & Learning**
+## 🏆 **Certifications**
 
-- 🔬 **Advanced Machine Learning** - Exploring deep learning architectures and optimization algorithms
-- ☁️ **Cloud Architecture** - Mastering AWS services and multi-cloud solutions
-- 📊 **Data Engineering** - Building scalable data pipelines and ETL processes
-- 🚀 **Full-Stack Development** - Enhancing React.js and Next.js expertise
-- 📚 **Research & Innovation** - Contributing to cutting-edge ML research and publications
+- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** — Mar 2026
 
 ---
 
-*"Data is the new oil, but insights are the new gold. Let's dig deep and find the treasure!"* ✨
+## 📊 **GitHub activity**
 
-*Last updated: January 2025*
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sreyalingala&theme=default&border=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
+
+[![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreyalingala&show_icons=true&theme=default&title_color=6366F1&icon_color=6366F1&border_color=6366F1)](https://github.com/sreyalingala)
+
+<!-- Contribution snake - fun & interactive -->
+![Contribution snake](https://raw.githubusercontent.com/sreyalingala/sreyalingala/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🎯 **What I do**
+
+- **Data analysis & EDA** — Clean, profile, and explore data; find patterns and anomalies
+- **KPI dashboards & reporting** — Tableau, Power BI, DAX; stakeholder-ready metrics
+- **Data engineering** — ELT, dbt, Airflow, star schema, data quality checks
+- **A/B testing & causal inference** — Hypothesis testing, statistical power, conversion and retention impact
+- **SQL & warehousing** — Snowflake, BigQuery, PostgreSQL; optimized queries and indexing
+- **Cloud & pipelines** — AWS, Azure, Databricks, Fabric; orchestration and automation
+
+---
+
+## 📫 **Let's connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lingala-sreya-sri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lingalasreya2026@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=link&logoColor=white)](https://sreyalingala.dev)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreyalingala&style=flat-square&color=blue" alt="Profile Views" />
+
+*"Data is the new oil — but insights are the new gold. Here to dig, clean, and refine."* ✨  
+
+_Last updated: March 2026_
+
 </div>
