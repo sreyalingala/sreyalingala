@@ -5,11 +5,6 @@
 
 <br/>
 
-<!-- Dynamic badges -->
-<img src="https://img.shields.io/github/last-commit/sreyalingala/sreyalingala?color=6366F1&label=Last%20update&style=flat-square" alt="Last commit" />
-
-<br/>
-
 <!-- "Currently analyzing" rotating line -->
 <sub>📈 <em>Currently analyzing:</em></sub>  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=420&lines=cohort+retention+%26+funnel+metrics;DAX+measures+%26+Power+BI+datasets;star+schemas+%26+data+quality;A%2FB+test+power+analysis;Tableau+LOD+%26+semantic+layers;Airflow+DAGs+%26+ELT+pipelines" alt="Currently analyzing" />
