@@ -110,21 +110,6 @@ _Jan 2025 – Aug 2025 · Alexandria, VA_
 
 ---
 
-## 📊 **GitHub activity**
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sreyalingala&theme=default&border=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
-
-[![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreyalingala&show_icons=true&theme=default&title_color=6366F1&icon_color=6366F1&border_color=6366F1)](https://github.com/sreyalingala)
-
-<!-- Contribution snake - fun & interactive -->
-![Contribution snake](https://raw.githubusercontent.com/sreyalingala/sreyalingala/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 🎯 **What I do**
 
 - **Data analysis & EDA** — Clean, profile, and explore data; find patterns and anomalies
