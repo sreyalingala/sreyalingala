@@ -7,7 +7,6 @@
 
 <!-- Dynamic badges -->
 <img src="https://img.shields.io/github/last-commit/sreyalingala/sreyalingala?color=6366F1&label=Last%20update&style=flat-square" alt="Last commit" />
-![Profile Views](https://komarev.com/ghpvc/?username=sreyalingala&style=flat-square&color=6366F1&label=Profile+Views)
 
 <br/>
 
