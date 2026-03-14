@@ -5,7 +5,15 @@
 
 <br/>
 
+<!-- Dynamic badges -->
+<img src="https://img.shields.io/github/last-commit/sreyalingala/sreyalingala?color=6366F1&label=Last%20update&style=flat-square" alt="Last commit" />
 ![Profile Views](https://komarev.com/ghpvc/?username=sreyalingala&style=flat-square&color=6366F1&label=Profile+Views)
+
+<br/>
+
+<!-- "Currently analyzing" rotating line -->
+<sub>📈 <em>Currently analyzing:</em></sub>  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=420&lines=cohort+retention+%26+funnel+metrics;DAX+measures+%26+Power+BI+datasets;star+schemas+%26+data+quality;A%2FB+test+power+analysis;Tableau+LOD+%26+semantic+layers;Airflow+DAGs+%26+ELT+pipelines" alt="Currently analyzing" />
 
 </div>
 
@@ -118,6 +126,16 @@ _Jan 2025 – Aug 2025 · Alexandria, VA_
 - **A/B testing & causal inference** — Hypothesis testing, statistical power, conversion and retention impact
 - **SQL & warehousing** — Snowflake, BigQuery, PostgreSQL; optimized queries and indexing
 - **Cloud & pipelines** — AWS, Azure, Databricks, Fabric; orchestration and automation
+
+---
+
+## 📐 **Languages I use** (from repos)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreyalingala&layout=compact&theme=default&title_color=6366F1&border_color=6366F1&hide_border=true" alt="Top languages" />
+
+</div>
 
 ---
 
